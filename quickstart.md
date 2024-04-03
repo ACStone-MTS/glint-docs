@@ -88,17 +88,11 @@ The expansion icon will expand the SQL query window at the cost of removing the 
 
 ## 4. Creating your First Visualization
 
-Entering a query in the AI assistant or hitting the `Run` button on the SQL query window will generate a chart visual in the lower window. By default, this will be shown as a "Column Chart", but you can choose from a variety of visual representations through the dropdown menu to the right of the chart visual window.
+Entering a query in the AI assistant or hitting the `Run` button on the SQL query window will generate a chart visual in the lower window. To the right of the **Chart visual** tab, you will see **Chart data**, which shows the imported data in an easily human-readable table and can be used to determine the best visual chart type.
 
-These visual representations and their advanced settings are described at length in the [Chart Options](tbd) documentation.
+By default, this will be shown as a "Column Chart", but you can choose from a variety of visual representations through the dropdown menu to the right of the chart visual window. These visual representations and their advanced settings are described at length in the [Chart Options](tbd) documentation. Below the chart type, another drop down menu allows you to customize the color and brightness of the presented data.
 
-Below the chart type, another drop down menu allows you to customize the color and brightness of the presented data.
-
-To the right of the **Chart visual** tab, you will see **Chart data**, which shows the imported data in an easily human-readable table and can be used to determine the best visual chart type.
-
-The expansion icon in the upper right allows you to expand the chart visual at the cost of removing the AI assistant and SQL query windows from view.
-
-In the lower right, there is an indicator of the data's refresh time. Clicking it will refresh the data immediately.
+The expansion icon in the upper right allows you to expand the chart visual at the cost of removing the AI assistant and SQL query windows from view. In the lower right, there is an indicator of the data's refresh time. Clicking it will refresh the data immediately.
 
 If you are satisfied with the chart as provided, you can enter a descriptive name for the chart in the upper right under "My visuals". Clicking save well then store the new visualization under "My visuals" for future reference and use in the **Dashboard editor**
 
