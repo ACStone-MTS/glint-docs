@@ -118,6 +118,10 @@ As with your visualizations, once you are satisfied with the layout you've creat
 
 The `Preview` button allows you to view created dashboards as they will appear to others. You can also choose to make any dashboard private by toggling the `Private Dashboard` button.
 
+### Example Dashboard
+
+You can find an example dashboard that contains all chart type options [here.](beta.glintanalytics.com/users/ACStone/dashboards/tutorial-dashboard)
+
 ## 6. Next Steps
 
 After familiarizing yourself with the basic features of both the **Visual Editor** and **Dashboard Editor**, you can view more in-depth documentation on the following topics:
