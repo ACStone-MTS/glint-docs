@@ -14,9 +14,9 @@ This quickstart guide outlines the initial steps for a new user looking to dive 
 
 4. [Creating your First Visualization](#4-creating-your-first-visualization)
 
-5. [Creating your First Dashboard](#dashboard)
+5. [Creating your First Dashboard](#5-creating-your-first-dashboard)
 
-6. [Next Steps](#nextsteps)
+6. [Next Steps](#6-next-steps)
 
 ## 1. Creating your Glint Account
 
@@ -29,6 +29,8 @@ Glint will respond to your request as soon as we are able, and dependent on your
 ## 2. The Glint Analytics Landing Page
 
 After gaining access and signing in, you will be brought to the **Discover** landing page, which showcases some of the most popular user-generated dashboards. These dashboards are curated data presentations, voted on by the community and available to browse.
+
+![Landing Page Tabs](/images/landing.png)
 
 Clicking the star toggle will add a dashboard to your favourites, which may be viewed in the "*My favourites*" tab shown in the upper left of the landing page. You can also view any dashboards you've created in the "*My dashboards*" tab.
 
@@ -96,9 +98,13 @@ The expansion icon in the upper right allows you to expand the chart visual at t
 
 If you are satisfied with the chart as provided, you can enter a descriptive name for the chart in the upper right under "My visuals". Clicking save well then store the new visualization under "My visuals" for future reference and use in the **Dashboard editor**
 
+![My Visuals](/images/myvisuals.png)
+
 ## 5. Creating your First Dashboard
 
 After creating any visualizations you may need, you can click on the **Dashboard Editor** tab in the upper left of the page to move into the [WYSIWYG-style](https://en.wikipedia.org/wiki/WYSIWYG) editor for creating data presentations.
+
+![The Tutorial Dashboard](/images/dashboard.png)
 
 Clicking `Create` on the right of the editor will open a blank Dashboard, as well as listing all previously created visualizations under **"My visuals"** on the right side of the screen.
 
