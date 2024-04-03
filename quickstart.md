@@ -126,5 +126,5 @@ You can find an example dashboard that contains all chart type options [here.](b
 
 After familiarizing yourself with the basic features of both the **Visual Editor** and **Dashboard Editor**, you can view more in-depth documentation on the following topics:
 
-- [Chart Options](tbd)
-- [Leaderboard Mechanics and the Glint Community](tbd)
+- [Chart Options](/chart-options.md)
+- Leaderboard Mechanics and the Glint Community
